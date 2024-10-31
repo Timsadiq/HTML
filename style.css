@@ -1,0 +1,21 @@
+.nav {
+    background-color: #f2ebe9;
+    width: 100%;
+
+}
+
+.nav h1 {
+    text-align: center;
+    color: #de5499;
+    font-weight: lighter;
+}
+
+nav li{
+    float: right;
+    margin: 1%;
+    background-color: #de5499;
+    font-weight: bolder;
+}
+body {
+    background-color: #eddcd9;
+}
